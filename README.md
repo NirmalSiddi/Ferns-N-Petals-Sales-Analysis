@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/88f35425-6ee5-4f46-aabe-bda67031fe07)
+
 🌟 Project Spotlight: Comprehensive Sales Analysis Dashboard 🌟
 Delve into the data-driven world of sales excellence with my latest Excel project! 
 📊 This dynamic dashboard provides a 360-degree view of sales performance for "FNP" with key metrics, actionable insights, and stunning visuals. 
